@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hemraj_choudhary/static/css/main.e6c13ad2.css",
+    "main.js": "/hemraj_choudhary/static/js/main.1a75f9d7.js",
+    "static/js/787.43f5e7be.chunk.js": "/hemraj_choudhary/static/js/787.43f5e7be.chunk.js",
+    "static/media/profile.png": "/hemraj_choudhary/static/media/profile.5072d3257da4ff30e0b3.png",
+    "static/media/youtube.jpeg": "/hemraj_choudhary/static/media/youtube.6872ae3da66b7d107d10.jpeg",
+    "static/media/medium.jpeg": "/hemraj_choudhary/static/media/medium.b01bce295ea6d5e33d39.jpeg",
+    "index.html": "/hemraj_choudhary/index.html",
+    "main.e6c13ad2.css.map": "/hemraj_choudhary/static/css/main.e6c13ad2.css.map",
+    "main.1a75f9d7.js.map": "/hemraj_choudhary/static/js/main.1a75f9d7.js.map",
+    "787.43f5e7be.chunk.js.map": "/hemraj_choudhary/static/js/787.43f5e7be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1a75f9d7.js"
+  ]
+}
